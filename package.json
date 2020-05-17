@@ -1,0 +1,17 @@
+{
+  "name": "postgraphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Alain Armand <aarmand.inbox@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "graphql-to-postman": "0.0.5"
+  }
+}
